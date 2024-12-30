@@ -1,0 +1,6 @@
+@PR3__Potapov__HostAddress = http://localhost:5083
+
+GET {{PR3__Potapov__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

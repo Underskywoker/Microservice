@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u043E\u0434\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0414\u0430\u043D\u0438\u043B \u041F\u043E\u0442\u0430\u043F\u043E\u0432\\PR3\\PR3 (Potapov)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A40741C-B43D-4E76-860A-AD3A3B204E42}|PR3 (Potapov)\\PR3 (Potapov).csproj|d:\\\u043F\u043E\u0434\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0434\u0430\u043D\u0438\u043B \u043F\u043E\u0442\u0430\u043F\u043E\u0432\\pr3\\pr3 (potapov)\\pr3 (potapov)\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A40741C-B43D-4E76-860A-AD3A3B204E42}|PR3 (Potapov)\\PR3 (Potapov).csproj|solutionrelative:pr3 (potapov)\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A40741C-B43D-4E76-860A-AD3A3B204E42}|PR3 (Potapov)\\PR3 (Potapov).csproj|d:\\\u043F\u043E\u0434\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0434\u0430\u043D\u0438\u043B \u043F\u043E\u0442\u0430\u043F\u043E\u0432\\pr3\\pr3 (potapov)\\pr3 (potapov)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A40741C-B43D-4E76-860A-AD3A3B204E42}|PR3 (Potapov)\\PR3 (Potapov).csproj|solutionrelative:pr3 (potapov)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A40741C-B43D-4E76-860A-AD3A3B204E42}|PR3 (Potapov)\\PR3 (Potapov).csproj|d:\\\u043F\u043E\u0434\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0434\u0430\u043D\u0438\u043B \u043F\u043E\u0442\u0430\u043F\u043E\u0432\\pr3\\pr3 (potapov)\\pr3 (potapov)\\item\\watchlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A40741C-B43D-4E76-860A-AD3A3B204E42}|PR3 (Potapov)\\PR3 (Potapov).csproj|solutionrelative:pr3 (potapov)\\item\\watchlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A40741C-B43D-4E76-860A-AD3A3B204E42}|PR3 (Potapov)\\PR3 (Potapov).csproj|d:\\\u043F\u043E\u0434\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0434\u0430\u043D\u0438\u043B \u043F\u043E\u0442\u0430\u043F\u043E\u0432\\pr3\\pr3 (potapov)\\pr3 (potapov)\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A40741C-B43D-4E76-860A-AD3A3B204E42}|PR3 (Potapov)\\PR3 (Potapov).csproj|solutionrelative:pr3 (potapov)\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\\u041F\u043E\u0434\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0414\u0430\u043D\u0438\u043B \u041F\u043E\u0442\u0430\u043F\u043E\u0432\\PR3\\PR3 (Potapov)\\PR3 (Potapov)\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PR3 (Potapov)\\AppDbContext.cs",
+              "ToolTip": "D:\\\u041F\u043E\u0434\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0414\u0430\u043D\u0438\u043B \u041F\u043E\u0442\u0430\u043F\u043E\u0432\\PR3\\PR3 (Potapov)\\PR3 (Potapov)\\AppDbContext.cs",
+              "RelativeToolTip": "PR3 (Potapov)\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:46:28.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041F\u043E\u0434\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0414\u0430\u043D\u0438\u043B \u041F\u043E\u0442\u0430\u043F\u043E\u0432\\PR3\\PR3 (Potapov)\\PR3 (Potapov)\\Program.cs",
+              "RelativeDocumentMoniker": "PR3 (Potapov)\\Program.cs",
+              "ToolTip": "D:\\\u041F\u043E\u0434\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0414\u0430\u043D\u0438\u043B \u041F\u043E\u0442\u0430\u043F\u043E\u0432\\PR3\\PR3 (Potapov)\\PR3 (Potapov)\\Program.cs",
+              "RelativeToolTip": "PR3 (Potapov)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:40:07.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WatchlistItem.cs",
+              "DocumentMoniker": "D:\\\u041F\u043E\u0434\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0414\u0430\u043D\u0438\u043B \u041F\u043E\u0442\u0430\u043F\u043E\u0432\\PR3\\PR3 (Potapov)\\PR3 (Potapov)\\Item\\WatchlistItem.cs",
+              "RelativeDocumentMoniker": "PR3 (Potapov)\\Item\\WatchlistItem.cs",
+              "ToolTip": "D:\\\u041F\u043E\u0434\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0414\u0430\u043D\u0438\u043B \u041F\u043E\u0442\u0430\u043F\u043E\u0432\\PR3\\PR3 (Potapov)\\PR3 (Potapov)\\Item\\WatchlistItem.cs",
+              "RelativeToolTip": "PR3 (Potapov)\\Item\\WatchlistItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:39:38.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WatchlistController.cs",
+              "DocumentMoniker": "D:\\\u041F\u043E\u0434\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0414\u0430\u043D\u0438\u043B \u041F\u043E\u0442\u0430\u043F\u043E\u0432\\PR3\\PR3 (Potapov)\\PR3 (Potapov)\\Controllers\\WatchlistController.cs",
+              "RelativeDocumentMoniker": "PR3 (Potapov)\\Controllers\\WatchlistController.cs",
+              "ToolTip": "D:\\\u041F\u043E\u0434\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0414\u0430\u043D\u0438\u043B \u041F\u043E\u0442\u0430\u043F\u043E\u0432\\PR3\\PR3 (Potapov)\\PR3 (Potapov)\\Controllers\\WatchlistController.cs",
+              "RelativeToolTip": "PR3 (Potapov)\\Controllers\\WatchlistController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:39:01.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
